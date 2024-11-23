@@ -1,2 +1,2 @@
-![Example Output of !profit]([http://url/to/img.png](https://ibb.co/pZzd2jN))
+![Example Output of !profit](https://github.com/Felix-Silva/TarkovDiscordBot/blob/main/testimage.png)
 Example output of user calling the "profit" command
